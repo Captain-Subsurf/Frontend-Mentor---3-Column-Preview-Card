@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link to solution](https://your-solution-url.com)
-- Live Site URL: [Link to live site](https://your-live-site-url.com)
+- Solution URL: [Link to solution](https://github.com/Captain-Subsurf/Frontend-Mentor---3-Column-Preview-Card)
+- Live Site URL: [Link to live site](https://captain-subsurf.github.io/Frontend-Mentor---3-Column-Preview-Card/)
 
 ## My process
 
